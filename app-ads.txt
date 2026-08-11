@@ -360,3 +360,8 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+lijit.com,569924,RESELLER,fafdf38b16bf6b2b
+pubeasy.io,110579,RESELLER
+pubmatic.com,168216,RESELLER,5d62403b186f2ace
+pubmatic.com,168244,RESELLER,5d62403b186f2ace
+triplelift.com,14826,RESELLER,6c33edb13117fd86
